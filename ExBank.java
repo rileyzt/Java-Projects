@@ -1,3 +1,5 @@
+//A Java program to perform basic banking operations such as deposits, withdrawals, and checking account holder details. 
+
 import java.util.Scanner;
 
 class Bank
