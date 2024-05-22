@@ -1,3 +1,5 @@
+//Java Program to calculate the bill of staying in a resort
+
 import java.io.*;
 
 // Define the Bill1 class
